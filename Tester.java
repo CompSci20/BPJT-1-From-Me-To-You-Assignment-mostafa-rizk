@@ -2,7 +2,7 @@
 //Date created: Mar 10, 2018
 public class Tester
 {
-	public static void main(String args[])
+	 public static void main(String args[])
 	{
 		System.out.println("From: Bill Smith");
 		System.out.println("Address: Dell Computer, Bldg 13");
